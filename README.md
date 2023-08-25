@@ -1,6 +1,6 @@
 ## Wireless-Framework . version 2.O
-     Author : Indepth-CyberSecurity
-     Instagram : https://instagram.com/indepth_cybersecurity
+     Author : Agampreet Singh
+     Instagram : https://instagram.com/white_hat_hackerx
 
 ## Legal Disclaimer
      The author does not hold any responsibility for the bad use of this tool,
