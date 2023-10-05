@@ -1,6 +1,6 @@
 ## Wireless-Framework . version 2.O
      Author : Agampreet Singh
-     Instagram : https://instagram.com/white_hat_hackerx
+     Instagram : https://instagram.com/jassi_singh_zx
 
 ## Legal Disclaimer
      The author does not hold any responsibility for the bad use of this tool,
